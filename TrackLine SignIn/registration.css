@@ -1,0 +1,95 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #efefef;
+    font-size: 16px;
+    color: #777;
+    font-weight: 300;
+    background:
+    linear-gradient(rgba(0, 0, 0, 0.959), rgba(27, 22, 22, 0.5)),
+    url(engineers-using-key-card-identity-verification-access-security-room_101448-473.jpg);
+    background-size: cover;
+
+}
+#registration
+{
+    position: relative;
+    margin: 5% auto;
+    height: 400px;
+    width: 600px;
+    
+}
+h1
+{
+    padding-top: 10px;
+    padding-left: 300px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    
+}
+label
+{
+    
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+.head
+{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.left-box
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+
+}
+
+input[type="text"], input[type="password"],input[type="email"],input[type="number"]
+{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 30px;
+}
+input[type=submit]
+{
+    margin-bottom:28px ;
+    width: 120px;
+    height: 32px;
+    background: #FF8B41;
+    border: none;
+    border-radius: 2px;
+    color:#fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    border-radius: 30px;
+    
+}
+
+.right-box
+{
+    position: absolute;
+    top:0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+    
+}
